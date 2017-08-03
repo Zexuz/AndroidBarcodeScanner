@@ -266,8 +266,8 @@ namespace AndroidBarcodeScanner.Sample
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f07000c
-			public const int activity_main = 2131165196;
+			// aapt resource value: 0x7f070009
+			public const int activity_main = 2131165193;
 			
 			// aapt resource value: 0x7f070000
 			public const int adjust_height = 2131165184;
@@ -281,8 +281,14 @@ namespace AndroidBarcodeScanner.Sample
 			// aapt resource value: 0x7f070007
 			public const int dark = 2131165191;
 			
-			// aapt resource value: 0x7f07000b
-			public const int faceOverlay = 2131165195;
+			// aapt resource value: 0x7f070010
+			public const int faceOverlay = 2131165200;
+			
+			// aapt resource value: 0x7f07000d
+			public const int fragmentbtn = 2131165197;
+			
+			// aapt resource value: 0x7f07000a
+			public const int frameLayout1 = 2131165194;
 			
 			// aapt resource value: 0x7f070003
 			public const int icon_only = 2131165187;
@@ -290,23 +296,23 @@ namespace AndroidBarcodeScanner.Sample
 			// aapt resource value: 0x7f070008
 			public const int light = 2131165192;
 			
+			// aapt resource value: 0x7f07000b
+			public const int linearLayout1 = 2131165195;
+			
 			// aapt resource value: 0x7f070002
 			public const int none = 2131165186;
 			
-			// aapt resource value: 0x7f07000a
-			public const int preview = 2131165194;
+			// aapt resource value: 0x7f07000f
+			public const int preview = 2131165199;
 			
-			// aapt resource value: 0x7f07000e
-			public const int result = 2131165198;
-			
-			// aapt resource value: 0x7f07000d
-			public const int scanbtn = 2131165197;
+			// aapt resource value: 0x7f07000c
+			public const int scanbtn = 2131165196;
 			
 			// aapt resource value: 0x7f070004
 			public const int standard = 2131165188;
 			
-			// aapt resource value: 0x7f070009
-			public const int topLayout = 2131165193;
+			// aapt resource value: 0x7f07000e
+			public const int topLayout = 2131165198;
 			
 			// aapt resource value: 0x7f070005
 			public const int wide = 2131165189;
@@ -341,13 +347,10 @@ namespace AndroidBarcodeScanner.Sample
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int activity_scan = 2130903040;
+			public const int Main = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Main = 2130903041;
-			
-			// aapt resource value: 0x7f030002
-			public const int ScanLayout = 2130903042;
+			public const int ScanLayout = 2130903041;
 			
 			static Layout()
 			{

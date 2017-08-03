@@ -78,6 +78,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Barcode\BarcodeSannerActivity.cs" />
+    <Compile Include="Barcode\BarcodeScannerFragment.cs" />
+    <Compile Include="Barcode\Scanner.cs" />
     <Compile Include="Barcode\UI\BarcodeGraphics.cs" />
     <Compile Include="Barcode\UI\CameraSourcePreview.cs" />
     <Compile Include="Barcode\UI\GraphicOverlay.cs" />
