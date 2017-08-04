@@ -58,38 +58,38 @@ namespace AndroidBarcodeScanner
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f060008
-			public static int common_google_signin_btn_text_dark = 2131099656;
+			// aapt resource value: 0x7f040008
+			public static int common_google_signin_btn_text_dark = 2130968584;
 			
-			// aapt resource value: 0x7f060000
-			public static int common_google_signin_btn_text_dark_default = 2131099648;
+			// aapt resource value: 0x7f040000
+			public static int common_google_signin_btn_text_dark_default = 2130968576;
 			
-			// aapt resource value: 0x7f060001
-			public static int common_google_signin_btn_text_dark_disabled = 2131099649;
+			// aapt resource value: 0x7f040001
+			public static int common_google_signin_btn_text_dark_disabled = 2130968577;
 			
-			// aapt resource value: 0x7f060002
-			public static int common_google_signin_btn_text_dark_focused = 2131099650;
+			// aapt resource value: 0x7f040002
+			public static int common_google_signin_btn_text_dark_focused = 2130968578;
 			
-			// aapt resource value: 0x7f060003
-			public static int common_google_signin_btn_text_dark_pressed = 2131099651;
+			// aapt resource value: 0x7f040003
+			public static int common_google_signin_btn_text_dark_pressed = 2130968579;
 			
-			// aapt resource value: 0x7f060009
-			public static int common_google_signin_btn_text_light = 2131099657;
+			// aapt resource value: 0x7f040009
+			public static int common_google_signin_btn_text_light = 2130968585;
 			
-			// aapt resource value: 0x7f060004
-			public static int common_google_signin_btn_text_light_default = 2131099652;
+			// aapt resource value: 0x7f040004
+			public static int common_google_signin_btn_text_light_default = 2130968580;
 			
-			// aapt resource value: 0x7f060005
-			public static int common_google_signin_btn_text_light_disabled = 2131099653;
+			// aapt resource value: 0x7f040005
+			public static int common_google_signin_btn_text_light_disabled = 2130968581;
 			
-			// aapt resource value: 0x7f060006
-			public static int common_google_signin_btn_text_light_focused = 2131099654;
+			// aapt resource value: 0x7f040006
+			public static int common_google_signin_btn_text_light_focused = 2130968582;
 			
-			// aapt resource value: 0x7f060007
-			public static int common_google_signin_btn_text_light_pressed = 2131099655;
+			// aapt resource value: 0x7f040007
+			public static int common_google_signin_btn_text_light_pressed = 2130968583;
 			
-			// aapt resource value: 0x7f06000a
-			public static int common_google_signin_btn_tint = 2131099658;
+			// aapt resource value: 0x7f04000a
+			public static int common_google_signin_btn_tint = 2130968586;
 			
 			static Color()
 			{
@@ -229,8 +229,8 @@ namespace AndroidBarcodeScanner
 		public partial class Integer
 		{
 			
-			// aapt resource value: 0x7f040000
-			public static int google_play_services_version = 2130968576;
+			// aapt resource value: 0x7f060000
+			public static int google_play_services_version = 2131099648;
 			
 			static Integer()
 			{
@@ -267,56 +267,56 @@ namespace AndroidBarcodeScanner
 			// aapt resource value: 0x7f050011
 			public static int Hello = 2131034129;
 			
+			// aapt resource value: 0x7f050000
+			public static int common_google_play_services_enable_button = 2131034112;
+			
 			// aapt resource value: 0x7f050001
-			public static int common_google_play_services_enable_button = 2131034113;
+			public static int common_google_play_services_enable_text = 2131034113;
 			
 			// aapt resource value: 0x7f050002
-			public static int common_google_play_services_enable_text = 2131034114;
+			public static int common_google_play_services_enable_title = 2131034114;
 			
 			// aapt resource value: 0x7f050003
-			public static int common_google_play_services_enable_title = 2131034115;
+			public static int common_google_play_services_install_button = 2131034115;
 			
 			// aapt resource value: 0x7f050004
-			public static int common_google_play_services_install_button = 2131034116;
+			public static int common_google_play_services_install_text = 2131034116;
 			
 			// aapt resource value: 0x7f050005
-			public static int common_google_play_services_install_text = 2131034117;
+			public static int common_google_play_services_install_title = 2131034117;
 			
 			// aapt resource value: 0x7f050006
-			public static int common_google_play_services_install_title = 2131034118;
-			
-			// aapt resource value: 0x7f050007
-			public static int common_google_play_services_notification_ticker = 2131034119;
-			
-			// aapt resource value: 0x7f050000
-			public static int common_google_play_services_unknown_issue = 2131034112;
-			
-			// aapt resource value: 0x7f050008
-			public static int common_google_play_services_unsupported_text = 2131034120;
-			
-			// aapt resource value: 0x7f050009
-			public static int common_google_play_services_update_button = 2131034121;
-			
-			// aapt resource value: 0x7f05000a
-			public static int common_google_play_services_update_text = 2131034122;
-			
-			// aapt resource value: 0x7f05000b
-			public static int common_google_play_services_update_title = 2131034123;
-			
-			// aapt resource value: 0x7f05000c
-			public static int common_google_play_services_updating_text = 2131034124;
-			
-			// aapt resource value: 0x7f05000d
-			public static int common_google_play_services_wear_update_text = 2131034125;
-			
-			// aapt resource value: 0x7f05000e
-			public static int common_open_on_phone = 2131034126;
-			
-			// aapt resource value: 0x7f05000f
-			public static int common_signin_button_text = 2131034127;
+			public static int common_google_play_services_notification_ticker = 2131034118;
 			
 			// aapt resource value: 0x7f050010
-			public static int common_signin_button_text_long = 2131034128;
+			public static int common_google_play_services_unknown_issue = 2131034128;
+			
+			// aapt resource value: 0x7f050007
+			public static int common_google_play_services_unsupported_text = 2131034119;
+			
+			// aapt resource value: 0x7f050008
+			public static int common_google_play_services_update_button = 2131034120;
+			
+			// aapt resource value: 0x7f050009
+			public static int common_google_play_services_update_text = 2131034121;
+			
+			// aapt resource value: 0x7f05000a
+			public static int common_google_play_services_update_title = 2131034122;
+			
+			// aapt resource value: 0x7f05000b
+			public static int common_google_play_services_updating_text = 2131034123;
+			
+			// aapt resource value: 0x7f05000c
+			public static int common_google_play_services_wear_update_text = 2131034124;
+			
+			// aapt resource value: 0x7f05000d
+			public static int common_open_on_phone = 2131034125;
+			
+			// aapt resource value: 0x7f05000e
+			public static int common_signin_button_text = 2131034126;
+			
+			// aapt resource value: 0x7f05000f
+			public static int common_signin_button_text_long = 2131034127;
 			
 			static String()
 			{
